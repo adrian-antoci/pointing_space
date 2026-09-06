@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Pointing Space website
+    url: https://pointing.space
+    about: Product home, rooms, and docs
+  - name: Donate / support
+    url: https://pointing.space/donate/
+    about: Help keep Pointing Space free for teams
